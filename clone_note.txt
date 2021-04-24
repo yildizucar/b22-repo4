@@ -1,0 +1,8 @@
+i just created Empty remote reposrty fro,
+GitHub.com acoount by clicking on the ples icon on top right corner and nes repostry ang give a name and click create
+
+
+
+and cloned this repository by clicking on set up in desktop and 9 optionally select the vesrion ) 
+
+it cloned our remote  repo the local so we can start working totatly
